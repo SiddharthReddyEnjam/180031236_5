@@ -18,7 +18,6 @@ public class SumandAvg {
         System.out.println("Sum:"+sum);
         average = (float)sum / n;
         System.out.println("Average:"+average);
-
 	}
 
 }
